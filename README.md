@@ -4,6 +4,8 @@ Research and development studio building open-source software at the intersectio
 
 **[suezcanal.xyz](https://www.suezcanal.xyz)** produces web platforms, simulations, field devices and public experiments around maritime space, evidence and geopolitical power.
 
+`TypeScript` · `Python` · `Node.js` · `React` · `PostgreSQL` · `Redis` · `Docker`
+
 [![suezcanal.xyz](assets/hero.jpg)](https://www.suezcanal.xyz)
 
 ## Selected work
@@ -12,7 +14,7 @@ Research and development studio building open-source software at the intersectio
 
 **[suezcanal.xyz](https://www.suezcanal.xyz)** — Studio site and research platform for territory, maritime space and public-facing simulations.
 
-**Artemis** · TypeScript — Workspace platform for artists and studios: auth, Postgres/Redis backend, artwork catalog, subdomain publishing, opportunity intake API. In development.
+**[Artemis](https://github.com/suezcanalxyz/artemis)** · Node/TypeScript, React, Postgres, Redis, Docker — Multi-tenant workspace platform for artists and studios: auth, artwork catalog, subdomain publishing, background jobs, opportunity intake API. Test coverage via Vitest and Playwright.
 
 **[Insulaphilia](https://insulaphilia-org.vercel.app)** · TypeScript — Partner portal for the Insulaphilia Foundation.
 
