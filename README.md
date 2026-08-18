@@ -1,8 +1,8 @@
-# Matteo Messina
+# suezcanal.xyz
 
-Creative technologist and researcher building open-source software at the intersection of art, territory and applied technology. Based in Milan.
+Research and development studio building open-source software at the intersection of art, territory and applied technology. Based in Milan.
 
-I run **[suezcanal.xyz](https://www.suezcanal.xyz)**, a research and development studio producing web platforms, simulations, field devices and public experiments around maritime space, evidence and geopolitical power.
+**[suezcanal.xyz](https://www.suezcanal.xyz)** produces web platforms, simulations, field devices and public experiments around maritime space, evidence and geopolitical power.
 
 [![suezcanal.xyz](assets/hero.jpg)](https://www.suezcanal.xyz)
 
