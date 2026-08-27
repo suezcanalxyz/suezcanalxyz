@@ -16,6 +16,10 @@ Research and development studio building open-source software at the intersectio
 
 **[Artemis](https://github.com/suezcanalxyz/artemis)** · Node/TypeScript, React, Postgres, Redis, Docker — Multi-tenant workspace platform for artists and studios: auth, artwork catalog, subdomain publishing, background jobs, opportunity intake API. Test coverage via Vitest and Playwright.
 
+**[ATLAS](https://github.com/suezcanalxyz/republic-xyz)** · TypeScript, Next.js, Prisma/PostgreSQL, CesiumJS — Real-time geopolitical intelligence globe: multi-source signal ingestion (GDELT, RSS, geo hotspots), two-pass deterministic + LLM enrichment pipeline, cron-refreshed. [Live](https://republic.suezcanal.xyz)
+
+**[PumpPortal Signal Engine](https://github.com/suezcanalxyz/pump-signal-engine)** · Node.js — Real-time WebSocket signal engine for Solana token launches: stateful multi-gate decision pipeline, position/risk management, live dashboard, deterministic replay harness.
+
 **[Insulaphilia](https://insulaphilia-org.vercel.app)** · TypeScript — Partner portal for the Insulaphilia Foundation.
 
 **[Lazy Studio](https://lazystudio.vercel.app)** — Documentary and film production studio site, Rome. Launching soon.
