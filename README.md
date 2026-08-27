@@ -18,7 +18,7 @@ Research and development studio building open-source software at the intersectio
 
 **[ATLAS](https://github.com/suezcanalxyz/republic-xyz)** · TypeScript, Next.js, Prisma/PostgreSQL, CesiumJS — Real-time geopolitical intelligence globe: multi-source signal ingestion (GDELT, RSS, geo hotspots), two-pass deterministic + LLM enrichment pipeline, cron-refreshed. [Live](https://republic.suezcanal.xyz)
 
-**[PumpPortal Signal Engine](https://github.com/suezcanalxyz/pump-signal-engine)** · Node.js — Real-time WebSocket signal engine for Solana token launches: stateful multi-gate decision pipeline, position/risk management, live dashboard, deterministic replay harness.
+**[Treasury](https://github.com/suezcanalxyz/treasury)** · Node.js — Real-time WebSocket signal engine for Solana token launches: stateful multi-gate decision pipeline, position/risk management, live dashboard, deterministic replay harness.
 
 **[Insulaphilia](https://insulaphilia-org.vercel.app)** · TypeScript — Partner portal for the Insulaphilia Foundation.
 
