@@ -1,10 +1,10 @@
 # suezcanal.xyz
 
-Research and development studio building open-source software at the intersection of art, territory and applied technology. Based in Milan.
+Research and development studio engineering geospatial, realtime and AI-integrated systems at the intersection of territory, evidence and applied technology. Based in Milan.
 
-**[suezcanal.xyz](https://www.suezcanal.xyz)** produces web platforms, simulations, field devices and public experiments around maritime space, evidence and geopolitical power.
+**[suezcanal.xyz](https://www.suezcanal.xyz)** builds production-grade platforms around maritime space, geopolitical signal and public-facing simulation: 3D/GIS visualization, drift and trajectory modelling, OSINT ingestion pipelines, realtime distributed systems, and LLM-integrated data enrichment — shipped with CI, typed domain contracts and architecture documentation, not prototypes.
 
-`TypeScript` · `Python` · `Node.js` · `React` · `PostgreSQL` · `Redis` · `Docker`
+`TypeScript` · `Python` · `Node.js` · `FastAPI` · `React` · `PostgreSQL` · `PostGIS` · `Redis` · `Docker` · `GIS / Geospatial (CesiumJS, MapLibre GL, OpenDrift, Lagrangian modelling)` · `Realtime systems (WebSocket, Cloudflare Workers, Durable Objects)` · `LLM / AI integration` · `Solana / Web3`
 
 [![suezcanal.xyz](assets/hero.jpg)](https://www.suezcanal.xyz)
 
