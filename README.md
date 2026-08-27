@@ -10,7 +10,7 @@ Research and development studio building open-source software at the intersectio
 
 ## Selected work
 
-**[SeaCommons](https://github.com/suezcanalxyz/seacommons)** · Python — Open-source maritime rescue and awareness platform: vessel tracking, weather, drift modelling and forensic operations. [Live](https://www.suezcanal.xyz/seacommons/)
+**[SeaCommons](https://github.com/suezcanalxyz/seacommons)** · Python/FastAPI, React, Cesium — Open-source maritime SAR and awareness platform: realtime distress-signal ingestion, Lagrangian drift modelling (OpenDrift), OSINT monitoring (X/Twitter, GDACS, NGO response), forensic evidence chain, and a privacy-filtered public Live map served through a Cloudflare edge worker. Production-engineering standard: blocking CI, CodeQL, typed domain contracts, ADRs. [Live](https://www.suezcanal.xyz/seacommons/)
 
 **[suezcanal.xyz](https://www.suezcanal.xyz)** — Studio site and research platform for territory, maritime space and public-facing simulations.
 
